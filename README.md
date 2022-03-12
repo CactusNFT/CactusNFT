@@ -1,4 +1,4 @@
-### Smart Contracts of Cactus NFT Marketplace
+### Smart Contracts of CactusNFTSpace
 
 <!--
 **CactusNFT/CactusNFT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
